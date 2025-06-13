@@ -41,3 +41,6 @@ Victoria has spent over a decade studying the Mayan Calendar and facilitates cer
 - **Sign Up:** Visit the [registration page](#) or email [hello@templia.art](mailto:hello@templia.art) to reserve your place.
 
 **Spaces are limited—join us in Templia for a transformative, women-only gathering focused on peace and renewal!**
+
+## Disclaimer
+This retreat is not a substitute for professional medical or mental health treatment. Always consult a qualified healthcare provider for personalized advice.
