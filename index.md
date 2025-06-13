@@ -1,12 +1,14 @@
 # Anxiety Reduction Retreat in Templia
 
 **Location:** Templia, Mexico  
-**Dates:** October 1–5, 2025  
+**Dates:** October 1–4, 2025  
 **Focus:** Women's anxiety reduction through Mayan wisdom
 
 Join host **Victoria Von Berg** for a nurturing retreat that draws on Mayan rituals to release anxiety and build community. Participation is limited to women so we can create a safe, supportive space for healing.
 
 ## Schedule
+
+**Theme:** Releasing anxiety through Mayan wisdom and community support
 
 ### Day 1 – Arrival
 - Welcome circle and intention setting
@@ -22,14 +24,11 @@ Join host **Victoria Von Berg** for a nurturing retreat that draws on Mayan ritu
 - Traditional Mayan fire ceremony
 - Integration discussion
 
-### Day 4 – Connection
+### Day 4 – Integration & Farewell
 - Sunrise gratitude meditation
 - Community service activity
 - Sound healing session
-
-### Day 5 – Closing
-- Closing circle and gratitude practice
-- Departures
+- Closing circle and departures
 
 ## About Victoria Von Berg
 Victoria has spent over a decade studying the Mayan Calendar and facilitates ceremonies that gently guide you toward inner calm. Her approach weaves ancient practices with modern awareness to help release anxiety and strengthen spiritual connection.
