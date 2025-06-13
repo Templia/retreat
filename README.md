@@ -21,10 +21,11 @@ Styles are authored in `assets/sass`. Rebuild `assets/css/main.css` after making
 ```bash
 sass assets/sass/main.scss assets/css/main.css
 ```
+Install the Sass CLI with `npm install -g sass` if needed.
 
 ## Deployment
 
-Commit the generated files and push to a branch configured for GitHub Pages (e.g. `main` or `gh-pages`). GitHub will serve the contents at your chosen domain.
+Commit the generated files and push to a branch configured for GitHub Pages (e.g. `main` or `gh-pages`). GitHub will serve the contents at your chosen domain. You can also deploy the site to any static host such as Netlify or Vercel.
 
 ## License and Credits
 
