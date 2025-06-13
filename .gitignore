@@ -1,0 +1,22 @@
+# Ignore macOS system files
+.DS_Store
+
+# Node build artifacts
+node_modules/
+
+# Build output directories
+build/
+dist/
+_site/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Sass cache
+.sass-cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+
