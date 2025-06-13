@@ -1,6 +1,6 @@
 # Retreat
 
-This repository contains the static website for the Anxiety Reduction Retreat held in Templia, Mexico.
+This repository contains the static website for **A Journey Through Time: Inner Anxiety Healing Aligned with the Mayan Calendar** held in Templia, Tulum, Mexico.
 
 See [index.md](index.md) for full retreat details.
 
